@@ -1,0 +1,8 @@
+.member {
+  width: 90px;
+  height: 35px;
+  background-color: #eeeeee;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}

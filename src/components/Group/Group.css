@@ -1,0 +1,22 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.group-button {
+  background-color: #ea5455;
+  color: white;
+  text-align: center;
+  padding: 10px 40px 10px 40px;
+}
+
+.table {
+  width: 960px;
+  border: 1px solid #929aab;
+}
+
+thead {
+  background-color: #929aab;
+  text-align: center;
+}
